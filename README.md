@@ -50,14 +50,3 @@ spring.jpa.show-sql=true
 mvn clean install
 mvn spring-boot:run
 ```
-
-### Project Structure
-├── model/
-│   └── StudentDetails.java
-├── repository/
-│   └── StudentRepo.java
-├── controller/
-│   └── StudentRecordsHandler.java
-├── StudentDemoApplication.java
-└── resources/
-    └── application.properties
