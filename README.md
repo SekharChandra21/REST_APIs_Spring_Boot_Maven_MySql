@@ -1,4 +1,4 @@
-# 🎓 Student Management System - Spring Boot + MySQL
+# 🎓 Student Management System - Spring Boot Maven + MySQL
 
 A simple RESTful API for managing student records using **Spring Boot**, **Spring Data JPA**, and **MySQL **.
 
